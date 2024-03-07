@@ -7,11 +7,12 @@ It's worth noting that the following process has been carried out on a Raspberry
 ## Requirements
 To prepare the Raspberry Pi, we will need the following elements:
 
-  -A USB drive with a micro SD slot or some way to connect the micro SD to the computer.
-  -An optional Ethernet cable for network connection.
-  -A Type-C charger necessary to power our Raspberry Pi.
-  -A micro HDMI to HDMI cable (or any cable that can connect to a monitor).
-  -A USB controller to navigate within the Raspberry Pi's graphical interface.
+  -A USB drive with a micro SD slot or some way to connect the micro SD to the computer.  
+  -An optional Ethernet cable for network connection.  
+  -A Type-C charger necessary to power our Raspberry Pi.  
+  -A micro HDMI to HDMI cable (or any cable that can connect to a monitor).  
+  -A USB controller to navigate within the Raspberry Pi's graphical interface.  
+
 
 ## SD card preparation
 First, we need to download an SD card reader program. In this case, we will use Raspberry Pi Imager.
