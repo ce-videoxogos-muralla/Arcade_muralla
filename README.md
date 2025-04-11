@@ -1,5 +1,5 @@
 # Arcade Muralla Project
-We are going to build an arcade machine for our school, just for fun!
-# Competition
-# Companies that sell Arcades
-* [https://arcade1upeurope.com/es-eu]
+
+We built two arcade machines to show off the students games in events and in our school.
+
+![General view of educational event with the two arcades](/images/IMG_5241.HEIC)
