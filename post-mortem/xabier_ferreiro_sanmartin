@@ -1,11 +1,10 @@
 # Postmortem del Proyecto: Creación dunha máquina arcade/Feira de Educación, Formación e Emprego
 
-**Fecha:** [Fecha]  
-**Participantes:** [Lista de nombres y roles]
+**Fecha:** Meses de marzo e abril
+**Participantes:** Alumnos de DEVIR
 
 ## 1. Resumen del Proyecto
 - **Objetivos:** Crear unha máquina recreativa e presentala na feira
-- **Duración:** [Fechas de inicio/fin]
 
 ## 2. O que saliu ben
 
@@ -42,11 +41,17 @@
 
 
 ## 5. Lecciones aprendidas
-- **Lección 1:** [Descripción] → [Acción recomendada]
-- **Lección 2:** [Descripción] → [Acción recomendada]
+
+#### A nivel colectivo
+- **Lección 1:** Sendo o obxetivo poder amosar o proxecto nun evento nunha fecha concreta, é importante ter listo o máximo posible de elementos con antelación para non ter que pelexar cos problemas o dia antes ou o mesmo día do evento.
+- **Lección 2:** Non podes esperar que todo salga ben, tampouco se pode perder a cabeza cando as cousas salen mal. O control de danos e importante.
 ...
 
-## 6. Recomendaciones para proyectos futuros
-1. [Recomendación concreta y accionable]
-2. [Recomendación concreta y accionable]
+## 6. Recomendacións para proxectos futuros
+#### A nivel colectivo
+1. Asignar roles concretos a membros do equipo.
+2. Asegurarse de manter unha comunicación adecuada para saber en todo momento que problemas hai e como solucionalos.
+#### A nivel individual
+1. Ser máis proactivo e non estar esperando a que me digan que facer, intentar aportar de forma máis activa.
+2. Prepararme con antelación cos conocementos técnicos necesarios para manexar en este caso o software das máquinas para solucionar os problemas máis rápido e non ter que depender tanto de outros membros do equipo
 
